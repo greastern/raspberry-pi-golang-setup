@@ -1,2 +1,1 @@
-# raspberry-pi-
-setup
+# raspberry-pi-setup
